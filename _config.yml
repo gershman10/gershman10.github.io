@@ -1,2 +1,3 @@
-name: SERUM
+	name: SERUM
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
